@@ -1,0 +1,33 @@
+.navbutton {
+    background-color: rgb(128, 22, 22);
+}
+
+.logo {
+    width: 200px;
+    height: 80px;
+}
+/* cores da navbar */
+.navbar {
+    background-color: rgb(101, 8, 8);
+    color: white;
+}
+
+
+.vermelho {
+    color: rgb(101, 8, 8);
+}
+
+.cameraVideo {
+    color: rgb(101, 8, 8);
+}
+
+
+.card1 {
+    margin-left: 200px;
+    width: 100%;
+}
+
+.card2 {
+    margin-left: 200px;
+    width: 100%;
+}
